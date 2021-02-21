@@ -10,24 +10,24 @@ table   {
     background-color: black;
 }
 #box2   {
-    background-color: aquamarine;
+    background-color: white;
 }
 #box4   {
     background-color: black;
 }
 #box3   {
-    background-color: aquamarine;
+    background-color: white;
 }
 
 #box2.selected   {
     background-color: black;
 }
 #box1.selected   {
-    background-color: aquamarine;
+    background-color: white;
 }
 #box3.selected   {
     background-color: black;
 }
 #box4.selected   {
-    background-color: aquamarine;
+    background-color: white;
 }
