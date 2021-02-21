@@ -1,7 +1,4 @@
-
-
-function ClickBox(event) {
-    
+function ClickBox(event) {    
     press = !press
     if(press)   
     {
