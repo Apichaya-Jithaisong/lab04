@@ -1,0 +1,25 @@
+body    {
+    background: rgba(240, 35, 147, 0.486);
+}
+
+div {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#outer  {
+    background-color: rgb(226, 105, 129);
+}
+
+#inner  {
+    background-color: palevioletred;
+}
+
+#outer.selected {
+    background-color: rgb(216, 44, 216);
+}
+
+#inner.selected {
+    background-color: deeppink;
+}
